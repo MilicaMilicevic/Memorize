@@ -1,0 +1,7 @@
+Memory igra, gdje je cilj da korisnik pogodi najduzu sekvencu tacno odsviranih tipki. Od efekata najvise se koristi animacija:
+- pritisak tipke animiran je sa scale
+(pritisak bijelih dodatno kontrastnom zutom, a crne ne - jer je teze, pa se crne vise ponavljaju pri visim nivoima)
+- tokom jedne "partije" cuva se najbolji score s vremenom za koje je postignut.Ukoliko se u toku igranja, ostvari i bolji, animira se pulsiranje zvijezde.
+- tokom igranja, korisnik vidi ukupno proteklo vrijeme. Svaki prelazak na novi minut animiran je rotiranjem sata (desni gornji ugao).
+- ukoliko korisnik pogrijesi "spusta" se preklopnik, i startuje ponovo.
+

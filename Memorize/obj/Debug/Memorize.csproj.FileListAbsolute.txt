@@ -1,0 +1,302 @@
+c:\users\nemanja\Documents\Visual Studio 2012\Projects\Memorize\Memorize\bin\Debug\Memorize.exe.config
+c:\users\nemanja\Documents\Visual Studio 2012\Projects\Memorize\Memorize\bin\Debug\Memorize.exe
+c:\users\nemanja\Documents\Visual Studio 2012\Projects\Memorize\Memorize\bin\Debug\Memorize.pdb
+c:\users\nemanja\Documents\Visual Studio 2012\Projects\Memorize\Memorize\obj\Debug\Memorize.csprojResolveAssemblyReference.cache
+c:\users\nemanja\Documents\Visual Studio 2012\Projects\Memorize\Memorize\obj\Debug\MainWindow.baml
+c:\users\nemanja\Documents\Visual Studio 2012\Projects\Memorize\Memorize\obj\Debug\MainWindow.g.cs
+c:\users\nemanja\Documents\Visual Studio 2012\Projects\Memorize\Memorize\obj\Debug\App.g.cs
+c:\users\nemanja\Documents\Visual Studio 2012\Projects\Memorize\Memorize\obj\Debug\Memorize_MarkupCompile.cache
+c:\users\nemanja\Documents\Visual Studio 2012\Projects\Memorize\Memorize\obj\Debug\Memorize.g.resources
+c:\users\nemanja\Documents\Visual Studio 2012\Projects\Memorize\Memorize\obj\Debug\Memorize.Properties.Resources.resources
+c:\users\nemanja\Documents\Visual Studio 2012\Projects\Memorize\Memorize\obj\Debug\Memorize.csproj.GenerateResource.Cache
+c:\users\nemanja\Documents\Visual Studio 2012\Projects\Memorize\Memorize\obj\Debug\Memorize.exe
+c:\users\nemanja\Documents\Visual Studio 2012\Projects\Memorize\Memorize\obj\Debug\Memorize.pdb
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize\Memorize\obj\Debug\App.baml
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\Memorize.exe.config
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\obj\Debug\Memorize.exe
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\obj\Debug\Memorize.pdb
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\Memorize.exe
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\Memorize.pdb
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\obj\Debug\Memorize.csprojResolveAssemblyReference.cache
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\obj\Debug\MainWindow.baml
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\obj\Debug\App.baml
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\obj\Debug\MainWindow.g.cs
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\obj\Debug\App.g.cs
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\obj\Debug\Memorize_MarkupCompile.cache
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\obj\Debug\Memorize.g.resources
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\obj\Debug\Memorize.Properties.Resources.resources
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\obj\Debug\Memorize.csproj.GenerateResource.Cache
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\obj\Debug\Mistake.baml
+C:\Users\Nemanja\Documents\Visual Studio 2012\Projects\Memorize_Copy1\Memorize\obj\Debug\Mistake.g.cs
+D:\Memorize_Copy1\Memorize\bin\Debug\Memorize.exe.config
+D:\Memorize_Copy1\Memorize\obj\Debug\Memorize.exe
+D:\Memorize_Copy1\Memorize\obj\Debug\Memorize.pdb
+D:\Memorize_Copy1\Memorize\bin\Debug\Memorize.exe
+D:\Memorize_Copy1\Memorize\bin\Debug\Memorize.pdb
+D:\Memorize_Copy1\Memorize\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\Microsoft.Expression.Effects.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\System.Windows.Interactivity.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Memorize_Copy1\Memorize\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Memorize_Copy1\Memorize\obj\Debug\Memorize.csprojResolveAssemblyReference.cache
+D:\Memorize_Copy1\Memorize\obj\Debug\MainWindow.baml
+D:\Memorize_Copy1\Memorize\obj\Debug\App.baml
+D:\Memorize_Copy1\Memorize\obj\Debug\MainWindow.g.cs
+D:\Memorize_Copy1\Memorize\obj\Debug\App.g.cs
+D:\Memorize_Copy1\Memorize\obj\Debug\Memorize_MarkupCompile.cache
+D:\Memorize_Copy1\Memorize\obj\Debug\Memorize.g.resources
+D:\Memorize_Copy1\Memorize\obj\Debug\Memorize.Properties.Resources.resources
+D:\Memorize_Copy1\Memorize\obj\Debug\Memorize.csproj.GenerateResource.Cache
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\Memorize.exe.config
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\obj\Debug\Memorize.exe
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\obj\Debug\Memorize.pdb
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\Memorize.exe
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\Memorize.pdb
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\obj\Debug\Memorize.csprojResolveAssemblyReference.cache
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\obj\Debug\MainWindow.baml
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\obj\Debug\App.baml
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\obj\Debug\MainWindow.g.cs
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\obj\Debug\App.g.cs
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\obj\Debug\Memorize_MarkupCompile.cache
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\obj\Debug\Memorize.g.resources
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\obj\Debug\Memorize.Properties.Resources.resources
+C:\Users\Nemanja\Desktop\Memorize_Copy1\Memorize\obj\Debug\Memorize.csproj.GenerateResource.Cache
+C:\Users\Nemanja\Desktop\Memorize\Memorize\bin\Debug\Memorize.exe.config
+C:\Users\Nemanja\Desktop\Memorize\Memorize\obj\Debug\Memorize.exe
+C:\Users\Nemanja\Desktop\Memorize\Memorize\obj\Debug\Memorize.pdb
+G:\Memorize\Memorize\bin\Debug\Memorize.exe.config
+G:\Memorize\Memorize\obj\Debug\Memorize.exe
+G:\Memorize\Memorize\obj\Debug\Memorize.pdb
+G:\Memorize\Memorize\bin\Debug\Memorize.exe
+G:\Memorize\Memorize\bin\Debug\Memorize.pdb
+G:\Memorize\Memorize\bin\Debug\Microsoft.Expression.Drawing.dll
+G:\Memorize\Memorize\bin\Debug\Microsoft.Expression.Effects.dll
+G:\Memorize\Memorize\bin\Debug\Microsoft.Expression.Interactions.dll
+G:\Memorize\Memorize\bin\Debug\System.Windows.Interactivity.dll
+G:\Memorize\Memorize\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+G:\Memorize\Memorize\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+G:\Memorize\Memorize\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+G:\Memorize\Memorize\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+G:\Memorize\Memorize\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+G:\Memorize\Memorize\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+G:\Memorize\Memorize\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+G:\Memorize\Memorize\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+G:\Memorize\Memorize\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+G:\Memorize\Memorize\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+G:\Memorize\Memorize\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+G:\Memorize\Memorize\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+G:\Memorize\Memorize\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+G:\Memorize\Memorize\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+G:\Memorize\Memorize\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+G:\Memorize\Memorize\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+G:\Memorize\Memorize\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+G:\Memorize\Memorize\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+G:\Memorize\Memorize\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+G:\Memorize\Memorize\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+G:\Memorize\Memorize\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+G:\Memorize\Memorize\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+G:\Memorize\Memorize\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+G:\Memorize\Memorize\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+G:\Memorize\Memorize\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+G:\Memorize\Memorize\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+G:\Memorize\Memorize\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+G:\Memorize\Memorize\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+G:\Memorize\Memorize\bin\Debug\de\System.Windows.Interactivity.resources.dll
+G:\Memorize\Memorize\bin\Debug\en\System.Windows.Interactivity.resources.dll
+G:\Memorize\Memorize\bin\Debug\es\System.Windows.Interactivity.resources.dll
+G:\Memorize\Memorize\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+G:\Memorize\Memorize\bin\Debug\it\System.Windows.Interactivity.resources.dll
+G:\Memorize\Memorize\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+G:\Memorize\Memorize\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+G:\Memorize\Memorize\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+G:\Memorize\Memorize\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+G:\Memorize\Memorize\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+G:\Memorize\Memorize\obj\Debug\Memorize.csprojResolveAssemblyReference.cache
+G:\Memorize\Memorize\obj\Debug\MainWindow.baml
+G:\Memorize\Memorize\obj\Debug\App.baml
+G:\Memorize\Memorize\obj\Debug\MainWindow.g.cs
+G:\Memorize\Memorize\obj\Debug\App.g.cs
+G:\Memorize\Memorize\obj\Debug\Memorize_MarkupCompile.cache
+G:\Memorize\Memorize\obj\Debug\Memorize.g.resources
+G:\Memorize\Memorize\obj\Debug\Memorize.Properties.Resources.resources
+G:\Memorize\Memorize\obj\Debug\Memorize.csproj.GenerateResource.Cache
+F:\Memorize\Memorize\bin\Debug\Memorize.exe.config
+F:\Memorize\Memorize\obj\Debug\Memorize.exe
+F:\Memorize\Memorize\obj\Debug\Memorize.pdb
+F:\Memorize\Memorize\obj\Debug\Memorize.csprojResolveAssemblyReference.cache
+F:\Memorize\Memorize\obj\Debug\MainWindow.baml
+F:\Memorize\Memorize\obj\Debug\MainWindow.g.cs
+F:\Memorize\Memorize\obj\Debug\Memorize_MarkupCompile.cache
+F:\Memorize\Memorize\bin\Debug\Memorize.exe
+F:\Memorize\Memorize\bin\Debug\Memorize.pdb
+F:\Memorize\Memorize\bin\Debug\Microsoft.Expression.Drawing.dll
+F:\Memorize\Memorize\bin\Debug\Microsoft.Expression.Effects.dll
+F:\Memorize\Memorize\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\Memorize\Memorize\bin\Debug\System.Windows.Interactivity.dll
+F:\Memorize\Memorize\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+F:\Memorize\Memorize\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+F:\Memorize\Memorize\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+F:\Memorize\Memorize\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+F:\Memorize\Memorize\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+F:\Memorize\Memorize\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+F:\Memorize\Memorize\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+F:\Memorize\Memorize\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+F:\Memorize\Memorize\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+F:\Memorize\Memorize\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+F:\Memorize\Memorize\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+F:\Memorize\Memorize\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+F:\Memorize\Memorize\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+F:\Memorize\Memorize\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+F:\Memorize\Memorize\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+F:\Memorize\Memorize\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+F:\Memorize\Memorize\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+F:\Memorize\Memorize\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+F:\Memorize\Memorize\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+F:\Memorize\Memorize\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+F:\Memorize\Memorize\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+F:\Memorize\Memorize\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+F:\Memorize\Memorize\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+F:\Memorize\Memorize\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+F:\Memorize\Memorize\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+F:\Memorize\Memorize\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+F:\Memorize\Memorize\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+F:\Memorize\Memorize\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+F:\Memorize\Memorize\bin\Debug\de\System.Windows.Interactivity.resources.dll
+F:\Memorize\Memorize\bin\Debug\en\System.Windows.Interactivity.resources.dll
+F:\Memorize\Memorize\bin\Debug\es\System.Windows.Interactivity.resources.dll
+F:\Memorize\Memorize\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+F:\Memorize\Memorize\bin\Debug\it\System.Windows.Interactivity.resources.dll
+F:\Memorize\Memorize\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+F:\Memorize\Memorize\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+F:\Memorize\Memorize\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+F:\Memorize\Memorize\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+F:\Memorize\Memorize\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\Memorize\Memorize\obj\Debug\App.baml
+F:\Memorize\Memorize\obj\Debug\App.g.cs
+F:\Memorize\Memorize\obj\Debug\Memorize.g.resources
+F:\Memorize\Memorize\obj\Debug\Memorize.Properties.Resources.resources
+F:\Memorize\Memorize\obj\Debug\Memorize.csproj.GenerateResource.Cache
+F:\MilicaMilicevic3108\Memorize\Memorize\bin\Debug\Memorize.exe.config
+F:\MilicaMilicevic3108\Memorize\Memorize\obj\Debug\Memorize.exe
+F:\MilicaMilicevic3108\Memorize\Memorize\obj\Debug\Memorize.pdb
